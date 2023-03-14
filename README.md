@@ -1,4 +1,4 @@
-# Staffing-Levels
+# Staffing-Level Impacts
 
 I evaluated the impacts of the gap in projected and actual staffing levels on company performance. I also looked at the financial aspect of these impacts. Differences in expected pilot staffing and actual staffing led to flight cancellations.
 
