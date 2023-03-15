@@ -1,6 +1,6 @@
 # Staffing Level Impacts
 
-I evaluated the impacts of the gap in projected and actual staffing levels on company performance. I also looked at the financial aspect of these impacts. Differences in expected pilot staffing and actual staffing led to flight cancellations.
+I evaluated the impacts of the gap in projected and actual staffing levels on company performance. I also looked at the financial aspect of these impacts. Differences in expected pilot staffing and actual staffing led to flight cancellations and the company needed a way to avoid this in the future.
 
 Although there can be some margin in promising more flights than the company has staff for, due to incentivized overtime, how big that margin can be before negative impacts and performance is the million dollar question.
 
