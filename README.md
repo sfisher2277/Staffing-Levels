@@ -9,3 +9,4 @@ The increase in the cost of the incentivized shifts is also a factor, as that co
 The result of this project led to a formula the company could use to determine how much additional  capacity it could plan above baseline staffing, and still be reasonably sure the commitments could be met. This was based on seven years of data to account for temporary market changes. The project led to additional revenue, while improving reliability and internal and external customer satisfaction. Adjusting for fluctuations during the COVID pandemic was particularly satisfying to me.
 
 ![](https://github.com/sfisher2277/Staffing-Levels/blob/main/images/Composite.JPG)
+
